@@ -1,0 +1,29 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  margin-left: 15px;
+  color: #2E322A;
+}
+
+li{
+  padding: 15px;
+  display: inline-block;
+  font-size: 22px;
+  padding: 15px 40px;
+}
+
+li:hover {
+  background-color: #f5a427;
+}
+
+ul{
+  background-color: #2E322A;
+  color: #FFF;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
